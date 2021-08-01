@@ -2,7 +2,7 @@
 
 ✨ I currently work with _Flutter_ to create beautiful apps! sometimes I write articles, check them [here](https://medium.com/@pr_mais).
 
-📫  Reach me out on [twitter](twitter.com/pr_mais), [linkedIn](https://www.linkedin.com/in/maisalheraki/).
+📫  Reach me out on [twitter](https://twitter.com/pr_mais), [linkedIn](https://www.linkedin.com/in/maisalheraki/).
 
 
 <!--
