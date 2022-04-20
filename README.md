@@ -1,10 +1,3 @@
-### Hi, I'm Mais 🧚‍♀️ Enthusiast developer, & designer.
-
-✨ I currently work with _Flutter_ to create beautiful apps!
-
-📫  Reach me out on [twitter](https://twitter.com/pr_mais), [linkedIn](https://www.linkedin.com/in/maisalheraki/).
-
-
 <!--
 **pr-Mais/pr-Mais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
