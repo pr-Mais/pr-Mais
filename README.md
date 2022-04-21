@@ -34,7 +34,7 @@
   
   <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**HyperPay Flutter Plugin**](nyartech/hyperpay)<br />Flutter plugin for developers to integrate with HyperPay payment gateway, supports iOS & Android.
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**FlutterFire Desktop**](invertase/flutterfire_desktop)<br />Collection of Flutter & Dart packages built for Flutter on Windows, Linux and macOS.
+  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**FlutterFire Desktop**](invertase/flutterfire_desktop) with [Invertase](https://github.com/invertase)<br />Collection of Flutter & Dart packages built for Flutter on Windows, Linux and macOS.
   
   ### Highlights from my blogs & tutorials
 
