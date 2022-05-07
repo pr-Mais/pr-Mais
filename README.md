@@ -37,10 +37,10 @@
   <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**FlutterFire Desktop**](https://github.com/invertase/flutterfire_desktop) with [Invertase](https://github.com/invertase)<br />Collection of Flutter & Dart packages built for Flutter on Windows, Linux and macOS.
   
   ### Highlights from my blogs & tutorials
-
-  <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="16" /> [Get started with Flutter tests and GitHub workflows](https://invertase.io/blog/flutter-test-github-workflow)<br /> Learn how to write Flutter tests and run them automatically using GitHub workflows.
   
    <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="20" /> [How to use native APIs in Flutter: Platform Channels [Part 1]](https://invertase.io/blog/flutter-native-apis-pt1)<br /> Introduction into how to do native & 3rd-party integrations in Flutter using Platform Channels.<br />
+
+  <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="16" /> [Get started with Flutter tests and GitHub workflows](https://invertase.io/blog/flutter-test-github-workflow)<br /> Learn how to write Flutter tests and run them automatically using GitHub workflows.
   
    <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="16" /> [Building a Realtime Cryptocurrency App with Flutter](https://ably.com/tutorials/realtime-cryptocurrency-app-flutter)<br />Implement Ably realtime messaging in Flutter by building a cryptocurrency app that shows a live dashboard, chat room and Twitter feed.<br />
   
