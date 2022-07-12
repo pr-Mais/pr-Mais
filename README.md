@@ -6,6 +6,12 @@
   <br />I work with [Invertase](https://github.com/invertase) to create awesome tools for developers.
   <br />I'm a **Google Developer Expert for Flutter & Dart** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" /> , ask me anything about them!
   
+  <p>
+    <img src="https://user-images.githubusercontent.com/41123719/178540345-230edadb-781d-4536-adf8-ec7b6f6e0fd0.png" width="180" />
+    <img src="https://user-images.githubusercontent.com/41123719/178540996-025b14e1-fc07-4ee3-9b01-1d995de36f4d.png" width="180" />
+    <img src="https://user-images.githubusercontent.com/41123719/178540974-1c307732-1f2e-4a4a-9efe-81e1a7707911.png" width="180" />
+  <p />
+
   I'm highly interested in Machine Learning & AI. <br/> Currently learning more about Data Scince, and ML tools such as TensorFlow & PyTorch.
   
   <img src="https://user-images.githubusercontent.com/41123719/164349478-6e995114-fcd0-4bba-87ac-52eb1f791ab7.gif" width="90" /> 
@@ -25,7 +31,7 @@
 
 <div />
 <div align="start">
-  
+
   ### Projects
   
   <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Noor App**](pr-Mais/noor) <br />Android app built with Flutter.
