@@ -44,6 +44,8 @@
   
   ### Highlights from my blogs & tutorials
   
+  <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="20" /> [How to use native APIs in Flutter: iOS and Android Biometric Authentication [Part 2]](https://invertase.io/blog/flutter-native-apis-pt2)<br /> Use platform channels to build a full project with Flutter and native APIs.<br />
+  
    <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="20" /> [How to use native APIs in Flutter: Platform Channels [Part 1]](https://invertase.io/blog/flutter-native-apis-pt1)<br /> Introduction into how to do native & 3rd-party integrations in Flutter using Platform Channels.<br />
 
   <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="16" /> [Get started with Flutter tests and GitHub workflows](https://invertase.io/blog/flutter-test-github-workflow)<br /> Learn how to write Flutter tests and run them automatically using GitHub workflows.
