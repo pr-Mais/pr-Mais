@@ -53,12 +53,3 @@
    <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="16" /> [Building a Realtime Cryptocurrency App with Flutter](https://ably.com/tutorials/realtime-cryptocurrency-app-flutter)<br />Implement Ably realtime messaging in Flutter by building a cryptocurrency app that shows a live dashboard, chat room and Twitter feed.<br />
   
   <img src="https://user-images.githubusercontent.com/41123719/164350495-8057f8cb-0ef7-43e4-85f4-eb534327d589.gif" height="16" /> [Build a Real Weather App in Flutter](https://fairybits.com/blog/flutter-weather-app-en/)<br />Basics of http in Flutter using OpenWeather API.<br />
-  
-### Want to support?
- 
-Do you find my work to be of a value for you?
-You can buy me a **Book**, or **Coffee**. <img src="https://user-images.githubusercontent.com/41123719/164337945-b6ff1464-a6e2-4751-8df8-4169cdb039bd.gif" height="16" />
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prmais)
-  
-<div />
