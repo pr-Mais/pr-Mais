@@ -3,7 +3,6 @@
 
   ### Heya, my name is Mais.
   I'm a **software engineer**, **open-source** maintainer, and a **Google Developer Expert for Flutter & Dart** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" />.
-  <br />Working with [Invertase](https://github.com/invertase) to create awesome tools for developers.
   
   <p>
     <img src="https://user-images.githubusercontent.com/41123719/178540345-230edadb-781d-4536-adf8-ec7b6f6e0fd0.png" width="180" />
